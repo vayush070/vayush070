@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Data Structure and Algorithm
-- 🤔 I’m looking for help in Front End web dev
-- 💬 Ask me about Node, JS, C++, Python, Django
+- 🤔 I’m MERN stack Developer 
+- 💬 Ask me about NodeJS, JS, C++, Python, Django
 - 📫 How to reach me: [Instagram - ayush_verma_333](https://www.instagram.com/ayush_verma_333/)
 - ⚡ Fun fact: 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 
