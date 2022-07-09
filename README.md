@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="20px">, I'm Ayush Verma</h1>
+<h1 align="center">Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="10px">, I'm Ayush Verma</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vayush070" alt="vayush070" /> </p>
