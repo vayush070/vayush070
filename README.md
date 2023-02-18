@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram - ayush_verma_333](https://www.instagram.com/ayush_verma_333/)
 - ⚡ Fun fact: 🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔🤔
 
-<a href="https://github.com/vayush070">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vayush070&theme=light&hide_langs_below=1" />
+<a href="https://github.com/jomoabhi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomoabhi&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/vayush070">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vayush070&show_icons=true&theme=light&line_height=27" alt="Ayush's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jomoabhi&show_icons=true&theme=light&line_height=27" alt="Ayush's github stats"/>
 </a>
